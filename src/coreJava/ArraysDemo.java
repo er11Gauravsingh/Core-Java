@@ -39,7 +39,7 @@ public class ArraysDemo
 			System.out.println(b[i]);
 			
 		}
-  // Bol radha radha bol sangam hoga ki nhi
+
 	}
 
 }
