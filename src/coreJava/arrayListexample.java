@@ -8,7 +8,8 @@ public class arrayListexample
 		
 		ArrayList<String> a =new ArrayList<String>(); 
 	    // The above is the way how we define array List and  it is a dynamic form as its size is not fixed
-		// Sunno sasur ji ab zid chodo maan lo
+		
+
 		a.add("Gaurav");
 		 a.add("Java");
 		 a.add("Shivangi");
@@ -24,7 +25,7 @@ public class arrayListexample
 		System.out.println(a.isEmpty());
 		System.out.println(a.size());
 		
-      // Dulhan toh jayegi dulhe raja ke saath
+
 	}
 
 }

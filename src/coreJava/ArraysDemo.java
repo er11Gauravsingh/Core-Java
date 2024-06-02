@@ -10,7 +10,7 @@ public class ArraysDemo
 		int[] a=new int[5] ; 
 	 // Array is static in nature and ArrayList is dynamic in nature
      // In the above arrays we store multiple value as here we are storing 5 integer values as written on right side 
-		
+	// Sunno kuch kro ab toh	
 	// New keyword allocates memory for these 5 integer values 
 	// Array always start from zero Index  
 		a[0]=2;
@@ -39,7 +39,7 @@ public class ArraysDemo
 			System.out.println(b[i]);
 			
 		}
-       // Mukul is the best tester in India
+
 	}
 
 }
